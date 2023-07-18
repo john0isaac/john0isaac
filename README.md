@@ -11,7 +11,7 @@ A Passionate Full Stack Developer ⚡ and a Computer Engineer Fresh Graduate fro
 
 ## A little More about me :
 
-- 🔭 &nbsp; I’m currently working on my [![Youtube Channel](https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png)](https://www.youtube.com/@john0isaac)
+- 🔭 &nbsp; I’m currently working on my <img height="20" src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" alt="Youtube" title="Youtube"> <a href=https://www.youtube.com/@john0isaac>Youtube Channel</a>
 - 🌱 &nbsp; I’m currently learning about **Microsoft Technologies** 
 - 👯 &nbsp; I’m looking to collaborate on Machine Learning Projects 
 - 💬 &nbsp; Ask me about anything I'm happy to help 
