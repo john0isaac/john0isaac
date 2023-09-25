@@ -7,13 +7,13 @@
 [![Facebook: John0Isaac](https://img.shields.io/badge/-John0Isaac-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/John0Isaac/)](https://www.facebook.com/John0Isaac/)
 
 
-A Passionate Full Stack Developer ⚡ and a Computer Engineer Fresh Graduate from Modern Academy for Engineering 🎓. I love building cool stuff and exploring new technologies. Interested in Cloud computing ☁️, Machine Learning,  DevOps, Open Source 📜, Innovation and Automation 🤖
+A Passionate Software Engineer ⚡ and a Computer Engineering Graduate from Modern Academy for Engineering 🎓. I love building cool stuff and exploring new technologies. Interested in Cloud computing ☁️, Machine Learning,  Web Development, Open Source 📜, Innovation and Automation 🤖
 
 ## A little More about me :
 
-- 🔭 &nbsp; I’m currently working on my <img height="20" src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" alt="Youtube" title="Youtube"> <a href=https://www.youtube.com/@john0isaac>Youtube Channel</a>
-- 🌱 &nbsp; I’m currently learning about **Microsoft Technologies** 
-- 👯 &nbsp; I’m looking to collaborate on Machine Learning Projects 
+- 🔭 &nbsp; Currently working on my <img height="20" src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" alt="Youtube" title="Youtube"> <a href=https://www.youtube.com/@john0isaac>Youtube Channel</a>
+- 🌱 &nbsp; currently learning about **Microsoft Technologies** 
+- 👯 &nbsp; Looking to collaborate on Machine Learning & Automation Projects 
 - 💬 &nbsp; Ask me about anything I'm happy to help 
 - 📫 &nbsp; How to reach me **johnaziz269@gmail.com**
 
