@@ -35,30 +35,15 @@ A Passionate Full Stack Developer ⚡ and a Computer Engineer Fresh Graduate fro
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" title="Terminal"></code>
 
-## 💭 Quote of the day
-<details>
-  <summary>See quote</summary>
-  
-  ![quotes card](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=normal)
-</details>
-
-## 😂 Joke of the day
-<details>
-  <summary>See joke</summary>
-  
-  ![Jokes Card](https://readme-jokes.vercel.app/api?&theme=normal)
-
-</details>
-
 ## ✨ My Github Streaks and Achievements ✨
-<details>
-  <summary><b>🔥 Streak Stats </b></summary>
+![John's github stats](https://github-readme-stats.vercel.app/api?username=john0isaac&show_icons=true&theme=normal)
 
-  ![John's github stats](https://github-readme-stats.vercel.app/api?username=John0Isaac&show_icons=true&theme=normal)
+![John's github streak](https://github-readme-streak-stats.herokuapp.com/?user=john0isaac&show_icons=true&theme=normal)
 
-  ![John's github streak](https://github-readme-streak-stats.herokuapp.com/?user=John0Isaac&show_icons=true&theme=normal)
+![John's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john0isaac&layout=compact)
 
-</details>
+
+---
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
