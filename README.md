@@ -49,6 +49,15 @@ A Passionate Software Engineer ⚡ and a Computer Engineering Graduate from Mode
 <img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" title="VS Code" />
 <br/><br/>
 
+## 📜 Publications:
+- [Integrating a Large Language Model on Azure with Power Platform](https://learn.microsoft.com/microsoft-cloud/dev/tutorials/aml-powerapps-powerautomate) on [Microsoft Learn](https://learn.microsoft.com).
+- [Bring your own Data to Azure OpenAI](https://techcommunity.microsoft.com/t5/educator-developer-blog/bring-your-own-data-to-azure-openai-step-by-step-guide/ba-p/3905212): Step-by-Step Guide on [Microsoft Tech Community](https://aka.ms/faculty).
+- [Automate Business Email Management Using AI Builder and Power Apps](https://techcommunity.microsoft.com/t5/educator-developer-blog/automate-business-email-management-using-ai-builder-and-power/ba-p/3871335): Step-by-Step Guide on [Microsoft Tech Community](https://aka.ms/faculty).
+- [The Full Guide to Packaging and Deploying ML Models to Production Using Azure](https://techcommunity.microsoft.com/t5/educator-developer-blog/the-full-guide-to-packaging-and-deploying-ml-models-to/ba-p/3855628): Step-by-Step Guide on [Microsoft Tech Community](https://aka.ms/faculty).
+- [Deploying a Large Language Model (GPT-2) on Azure Using Power Automate](https://techcommunity.microsoft.com/t5/educator-developer-blog/deploying-a-large-language-model-gpt-2-on-azure-using-power/ba-p/3850661): Step-by-Step Guide on [Microsoft Tech Community](https://aka.ms/faculty).
+- [Create and Deploy a Healthcare Chatbot with Azure Health Bot](https://techcommunity.microsoft.com/t5/educator-developer-blog/create-and-deploy-a-healthcare-chatbot-with-azure-health-bot/ba-p/3841414): Step-by-Step Guide on [Microsoft Tech Community](https://aka.ms/faculty).
+- [From being Rejected as GDSC Lead to Top MENA](https://medium.com/@john0isaac/from-being-rejected-as-gdsc-lead-to-top-mena-3906c0f25a1c) on [Medium](https://www.medium.com).
+
 ## ✨ My Github Streaks and Achievements ✨
 ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=john0isaac&show_icons=true&theme=normal)
 
