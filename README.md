@@ -6,9 +6,6 @@
 [![GitHub John0Isaac](https://img.shields.io/github/followers/John0Isaac?label=follow&style=social)](https://github.com/John0Isaac)
 [![Facebook: John0Isaac](https://img.shields.io/badge/-John0Isaac-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/John0Isaac/)](https://www.facebook.com/John0Isaac/)
 
-
-A Passionate Software Engineer ⚡ and a Computer Engineering Graduate from Modern Academy for Engineering 🎓. I love building cool stuff and exploring new technologies. Interested in Cloud computing ☁️, Machine Learning,  Web Development, Open Source 📜, Innovation and Automation 🤖
-
 I am deeply passionate about continuously expanding my knowledge in software engineering and developer roles, driven by the desire to both learn new technologies and share my insights with others. My expertise extends to the realm of Cloud Computing, where I have honed my skills and demonstrated my capabilities. Additionally, I possess a solid foundation in Software Engineering, Git, Data Science and Data Analysis using Python, C++ and I am well-versed in essential software development principles. 
 
 My journey in the tech industry has been enriched through diverse experiences, including my role as a Microsoft Student Partner. In this capacity, I had the privilege of developing official content for both the Microsoft Tech Community and Microsoft Learn, contributing to the broader knowledge-sharing ecosystem. These experiences have reinforced my commitment to staying at the forefront of technology and mentoring others on their own exciting journeys in the world of software engineering. 
