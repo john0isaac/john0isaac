@@ -8,7 +8,7 @@
 
 I am deeply passionate about continuously expanding my knowledge in software engineering and developer roles, driven by the desire to both learn new technologies and share my insights with others. My expertise extends to the realm of Cloud Computing, where I have honed my skills and demonstrated my capabilities. Additionally, I possess a solid foundation in Software Engineering, Git, Data Science and Data Analysis using Python, C++ and I am well-versed in essential software development principles. 
 
-My journey in the tech industry has been enriched through diverse experiences, including my role as a Microsoft Student Partner. In this capacity, I had the privilege of developing official content for both the Microsoft Tech Community and Microsoft Learn, contributing to the broader knowledge-sharing ecosystem. These experiences have reinforced my commitment to staying at the forefront of technology and mentoring others on their own exciting journeys in the world of software engineering. 
+My journey in the tech industry has been enriched through diverse experiences, including my role as a Microsoft Learn Student Ambassador. In this capacity, I had the privilege of developing official content for both the Microsoft Tech Community and Microsoft Learn, contributing to the broader knowledge-sharing ecosystem. These experiences have reinforced my commitment to staying at the forefront of technology and mentoring others on their own exciting journeys in the world of software engineering. 
 
 ## A little More about me :
 
