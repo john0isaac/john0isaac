@@ -51,15 +51,21 @@ My journey in the tech industry has been enriched through diverse experiences, i
 <br/><br/>
 
 ## 📜 Publications:
-- [Integrating a Large Language Model on Azure with Power Platform](https://learn.microsoft.com/microsoft-cloud/dev/tutorials/aml-powerapps-powerautomate) on [Microsoft Learn](https://learn.microsoft.com).
-- [Migrating a Full Stack Web App from Google Cloud to Microsoft Azure: Step-by-Step Guide](https://techcommunity.microsoft.com/t5/educator-developer-blog/migrating-a-full-stack-web-app-from-google-cloud-to-microsoft/ba-p/3939478) on [Microsoft Tech Community](https://aka.ms/faculty).
-- [Introduction to Git, GitHub, and Version Control​ workshop-o-matic Library](https://techcommunity.microsoft.com/t5/educator-developer-blog/introduction-to-git-github-and-version-control-workshop-o-matic/ba-p/3951511) on [Microsoft Tech Community](https://aka.ms/faculty).
-- [Understanding the Difference in Using Different Large Language Models](https://techcommunity.microsoft.com/t5/educator-developer-blog/understanding-the-difference-in-using-different-large-language/ba-p/3919444): Step-by-Step Guide on [Microsoft Tech Community](https://aka.ms/faculty).
-- [Bring your own Data to Azure OpenAI](https://techcommunity.microsoft.com/t5/educator-developer-blog/bring-your-own-data-to-azure-openai-step-by-step-guide/ba-p/3905212): Step-by-Step Guide on [Microsoft Tech Community](https://aka.ms/faculty).
-- [Automate Business Email Management Using AI Builder and Power Apps](https://techcommunity.microsoft.com/t5/educator-developer-blog/automate-business-email-management-using-ai-builder-and-power/ba-p/3871335): Step-by-Step Guide on [Microsoft Tech Community](https://aka.ms/faculty).
-- [The Full Guide to Packaging and Deploying ML Models to Production Using Azure](https://techcommunity.microsoft.com/t5/educator-developer-blog/the-full-guide-to-packaging-and-deploying-ml-models-to/ba-p/3855628): Step-by-Step Guide on [Microsoft Tech Community](https://aka.ms/faculty).
-- [Deploying a Large Language Model (GPT-2) on Azure Using Power Automate](https://techcommunity.microsoft.com/t5/educator-developer-blog/deploying-a-large-language-model-gpt-2-on-azure-using-power/ba-p/3850661): Step-by-Step Guide on [Microsoft Tech Community](https://aka.ms/faculty).
-- [Create and Deploy a Healthcare Chatbot with Azure Health Bot](https://techcommunity.microsoft.com/t5/educator-developer-blog/create-and-deploy-a-healthcare-chatbot-with-azure-health-bot/ba-p/3841414): Step-by-Step Guide on [Microsoft Tech Community](https://aka.ms/faculty).
+[Microsoft Learn](https://learn.microsoft.com):
+- [Integrating a Large Language Model on Azure with Power Platform](https://learn.microsoft.com/microsoft-cloud/dev/tutorials/aml-powerapps-powerautomate).
+- [Introduction to large language models](https://learn.microsoft.com/training/modules/introduction-large-language-models/)
+- [Create a large language model deployment](https://learn.microsoft.com/training/modules/large-language-model-deployment/)
+
+[Microsoft Tech Community](https://aka.ms/faculty):
+- [Build a recommender Full stack App using OpenAI and Azure SQL](https://techcommunity.microsoft.com/t5/educator-developer-blog/build-a-recommender-full-stack-app-using-openai-and-azure-sql/ba-p/3952146): Step-by-Step Guide.
+- [Migrating a Full Stack Web App from Google Cloud to Microsoft Azure](https://techcommunity.microsoft.com/t5/educator-developer-blog/migrating-a-full-stack-web-app-from-google-cloud-to-microsoft/ba-p/3939478): Step-by-Step Guide.
+- [Introduction to Git, GitHub, and Version Control​ workshop-o-matic Library](https://techcommunity.microsoft.com/t5/educator-developer-blog/introduction-to-git-github-and-version-control-workshop-o-matic/ba-p/3951511).
+- [Understanding the Difference in Using Different Large Language Models](https://techcommunity.microsoft.com/t5/educator-developer-blog/understanding-the-difference-in-using-different-large-language/ba-p/3919444): Step-by-Step Guide.
+- [Bring your own Data to Azure OpenAI](https://techcommunity.microsoft.com/t5/educator-developer-blog/bring-your-own-data-to-azure-openai-step-by-step-guide/ba-p/3905212): Step-by-Step Guide.
+- [Automate Business Email Management Using AI Builder and Power Apps](https://techcommunity.microsoft.com/t5/educator-developer-blog/automate-business-email-management-using-ai-builder-and-power/ba-p/3871335): Step-by-Step Guide.
+- [The Full Guide to Packaging and Deploying ML Models to Production Using Azure](https://techcommunity.microsoft.com/t5/educator-developer-blog/the-full-guide-to-packaging-and-deploying-ml-models-to/ba-p/3855628): Step-by-Step Guide.
+- [Deploying a Large Language Model (GPT-2) on Azure Using Power Automate](https://techcommunity.microsoft.com/t5/educator-developer-blog/deploying-a-large-language-model-gpt-2-on-azure-using-power/ba-p/3850661): Step-by-Step Guide.
+- [Create and Deploy a Healthcare Chatbot with Azure Health Bot](https://techcommunity.microsoft.com/t5/educator-developer-blog/create-and-deploy-a-healthcare-chatbot-with-azure-health-bot/ba-p/3841414): Step-by-Step Guide.
 - [From being Rejected as GDSC Lead to Top MENA](https://medium.com/@john0isaac/from-being-rejected-as-gdsc-lead-to-top-mena-3906c0f25a1c) on [Medium](https://www.medium.com).
 
 ## ✨ My Github Streaks and Achievements ✨
