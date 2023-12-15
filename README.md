@@ -53,8 +53,8 @@ My journey in the tech industry has been enriched through diverse experiences, i
 ## 📜 Publications:
 [Microsoft Learn](https://learn.microsoft.com):
 - [Integrating a Large Language Model on Azure with Power Platform](https://learn.microsoft.com/microsoft-cloud/dev/tutorials/aml-powerapps-powerautomate).
-- [Introduction to large language models](https://learn.microsoft.com/training/modules/introduction-large-language-models/)
-- [Create a large language model deployment](https://learn.microsoft.com/training/modules/large-language-model-deployment/)
+- [Introduction to large language models](https://learn.microsoft.com/training/modules/introduction-large-language-models/).
+- [Create a large language model deployment](https://learn.microsoft.com/training/modules/large-language-model-deployment/).
 
 [Microsoft Tech Community](https://aka.ms/faculty):
 - [Build a recommender Full stack App using OpenAI and Azure SQL](https://techcommunity.microsoft.com/t5/educator-developer-blog/build-a-recommender-full-stack-app-using-openai-and-azure-sql/ba-p/3952146): Step-by-Step Guide.
