@@ -58,8 +58,9 @@ My journey in the tech industry has been enriched through diverse experiences, i
 - [Introduction to chat completions](https://learn.microsoft.com/training/modules/introduction-chat-completion/).
 
 [Microsoft Tech Community](https://aka.ms/faculty):
+- [Migrating a Full Stack MySQL Web App from Google Cloud to Microsoft Azure](https://techcommunity.microsoft.com/t5/educator-developer-blog/migrating-a-full-stack-mysql-web-app-from-google-cloud-to/ba-p/3939472): Step-by-Step Guide.
 - [Build a recommender Full stack App using OpenAI and Azure SQL](https://techcommunity.microsoft.com/t5/educator-developer-blog/build-a-recommender-full-stack-app-using-openai-and-azure-sql/ba-p/3952146): Step-by-Step Guide.
-- [Migrating a Full Stack Web App from Google Cloud to Microsoft Azure](https://techcommunity.microsoft.com/t5/educator-developer-blog/migrating-a-full-stack-web-app-from-google-cloud-to-microsoft/ba-p/3939478): Step-by-Step Guide.
+- [Migrating a Full Stack PostgreSQL Web App from Google Cloud to Microsoft Azure](https://techcommunity.microsoft.com/t5/educator-developer-blog/migrating-a-full-stack-web-app-from-google-cloud-to-microsoft/ba-p/3939478): Step-by-Step Guide.
 - [Introduction to Git, GitHub, and Version Control​ workshop-o-matic Library](https://techcommunity.microsoft.com/t5/educator-developer-blog/introduction-to-git-github-and-version-control-workshop-o-matic/ba-p/3951511).
 - [Understanding the Difference in Using Different Large Language Models](https://techcommunity.microsoft.com/t5/educator-developer-blog/understanding-the-difference-in-using-different-large-language/ba-p/3919444): Step-by-Step Guide.
 - [Bring your own Data to Azure OpenAI](https://techcommunity.microsoft.com/t5/educator-developer-blog/bring-your-own-data-to-azure-openai-step-by-step-guide/ba-p/3905212): Step-by-Step Guide.
