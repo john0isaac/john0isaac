@@ -20,6 +20,7 @@ My journey in the tech industry has been enriched through diverse experiences, i
 - 📫 &nbsp; How to reach me **johnaziz269@gmail.com**
 
 ## 💡 Languages & Frameworks:
+
 <img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" title="HTML" />
 <img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" title="CSS" />
 <img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" title="JavaScript" />
@@ -35,6 +36,7 @@ My journey in the tech industry has been enriched through diverse experiences, i
 <br/><br/>
 
 ## 🛠️ Tools & Platforms I use:
+
 <img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="Azure" title="Azure" />
 <img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/08e8077e6cd7375c007c6fd6ac8cced5d7738494/topics/google-cloud/google-cloud.png" alt="Google Cloud" title="Google Cloud" />
 <img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS" title="AWS" />
@@ -52,6 +54,7 @@ My journey in the tech industry has been enriched through diverse experiences, i
 <br/><br/>
 
 ## 📜 Publications:
+
 [Microsoft Learn](https://learn.microsoft.com):
 - [Integrating a Large Language Model on Azure with Power Platform](https://learn.microsoft.com/microsoft-cloud/dev/tutorials/aml-powerapps-powerautomate).
 - [Introduction to large language models](https://learn.microsoft.com/training/modules/introduction-large-language-models/).
@@ -72,9 +75,8 @@ My journey in the tech industry has been enriched through diverse experiences, i
 - [From being Rejected as GDSC Lead to Top MENA](https://medium.com/@john0isaac/from-being-rejected-as-gdsc-lead-to-top-mena-3906c0f25a1c) on [Medium](https://www.medium.com).
 
 ## ✨ My Github Streaks and Achievements ✨
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=john0isaac&show_icons=true&theme=normal)
 
-![John's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=john0isaac&show_icons=true&theme=normal)
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=john0isaac&show_icons=true&theme=normal)
 
 ![John's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john0isaac&layout=compact)
 
