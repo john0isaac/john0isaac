@@ -1,12 +1,13 @@
 ## Hi, I'm John Aziz! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
+Read my #ContributorStories here 👉🏼 [aka.ms/contributor-stories/john-aziz](https://aka.ms/contributor-stories/john-aziz)
+
 [![Twitter: John00Isaac](https://img.shields.io/twitter/follow/John00Isaac?style=social)](https://twitter.com/John00Isaac)
 [![Linkedin: John0Isaac](https://img.shields.io/badge/-John0Isaac-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/John0Isaac/)](https://www.linkedin.com/in/John0Isaac/)
 &nbsp;
-[![GitHub John0Isaac](https://img.shields.io/github/followers/John0Isaac?label=follow&style=social)](https://github.com/John0Isaac)
-[![Facebook: John0Isaac](https://img.shields.io/badge/-John0Isaac-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/John0Isaac/)](https://www.facebook.com/John0Isaac/)
+[![GitHub John0Isaac](https://img.shields.io/github/followers/John0Isaac?label=follow&style=social)](https://github.com/john0isaac)
 
-I am deeply passionate about continuously expanding my knowledge in software engineering and developer roles, driven by the desire to both learn new technologies and share my insights with others. My expertise extends to the realm of Cloud Computing, where I have honed my skills and demonstrated my capabilities. Additionally, I possess a solid foundation in Software Engineering, Git, Data Science and Data Analysis using Python, C++ and I am well-versed in essential software development principles. 
+I'm deeply passionate about continuously expanding my knowledge in software engineering and developer roles, driven by the desire to both learn new technologies and share my insights with others. My expertise extends to the realm of Cloud Computing, where I have honed my skills and demonstrated my capabilities. Additionally, I possess a solid foundation in Software Engineering, Git, Data Science and Data Analysis using Python, C++ and I am well-versed in essential software development principles. 
 
 My journey in the tech industry has been enriched through diverse experiences, including my role as a Microsoft Learn Student Ambassador. In this capacity, I had the privilege of developing official content for both the Microsoft Tech Community and Microsoft Learn, contributing to the broader knowledge-sharing ecosystem. These experiences have reinforced my commitment to staying at the forefront of technology and mentoring others on their own exciting journeys in the world of software engineering. 
 
@@ -14,7 +15,7 @@ My journey in the tech industry has been enriched through diverse experiences, i
 
 - 🔭 &nbsp; Currently working on my <img height="20" src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" alt="Youtube" title="Youtube"> <a href=https://www.youtube.com/@john0isaac>Youtube Channel</a>
 - 🌱 &nbsp; Currently learning about **Microsoft Technologies** 
-- 👯 &nbsp; Looking to collaborate on Machine Learning & Automation Projects 
+- 👯 &nbsp; Looking to collaborate on Software Engineering Projects 
 - 💬 &nbsp; Ask me about anything I'm happy to help 
 - 📫 &nbsp; How to reach me **johnaziz269@gmail.com**
 
