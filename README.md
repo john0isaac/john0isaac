@@ -10,6 +10,11 @@ Read my Microsoft #ContributorStories here 👉🏼 [aka.ms/contributor-stories/
 
 ## 🛠️ Projects
 
+|Name| Description | Technologies | [DevContainer?](https://containers.dev/)
+|---|---|---|---|
+|[rag-semantic-kernel-mongodb-vcore](https://github.com/john0isaac/rag-semantic-kernel-mongodb-vcore)| A sample for implementing retrieval augmented generation using Azure Open AI to generate embeddings, Azure Cosmos DB for MongoDB vCore to perform vector search, and semantic kernel. | Python, Quart, OpenAI, MongoDB|✅|
+|[simple-flask-app-terraform](https://github.com/john0isaac/simple-flask-app-terraform)| A simple Python Flask server (classroom example). Designed to be run with Flask locally and deployed to Azure App service. | Python, Flask, Azure, Terraform|✅|
+
 ## 📜 Articles & Blogs:
 
 [Microsoft Learn](https://learn.microsoft.com):
