@@ -24,6 +24,7 @@ Read my Microsoft #ContributorStories here 👉🏼 [aka.ms/contributor-stories/
 |[azure-fastapi-mysql-flexible-aca](https://github.com/john0isaac/azure-fastapi-mysql-flexible-aca)| Web app using Python FastAPI backend, set up for deployment to Azure Container Apps with Azure MySQL Flexible Server. | Python, FastAPI, MySQL, Azure, Azure Container Apps |✅|
 |[azure-django-mysql-flexible-appservice](https://github.com/john0isaac/azure-django-mysql-flexible-appservice)| Web app using Python Django backend, set up for deployment to Azure App Service with Azure MySQL Flexible Server. | Python, Django, MySQL, Azure, App Service |✅|
 |[azure-django-mysql-flexible-aca](https://github.com/john0isaac/azure-django-mysql-flexible-aca)| Web app using Python Django backend, set up for deployment to Azure Container Apps with Azure MySQL Flexible Server. | Python, Django, MySQL, Azure, Azure Container Apps |✅|
+|[azure-django-mysql-flexible-aca](https://github.com/john0isaac/azure-django-mysql-flexible-aca)| Web app using Python Django backend, set up for deployment to Azure Container Apps with Azure MySQL Flexible Server. | Python, Django, MySQL, Azure, Azure Container Apps |✅|
 
 ### Tools
 
@@ -31,6 +32,9 @@ Read my Microsoft #ContributorStories here 👉🏼 [aka.ms/contributor-stories/
 |---|---|---|
 |[markdown-checker](https://github.com/john0isaac/markdown-checker)| Markdown Validation Reporting Tool. | Python |
 |[action-check-markdown](https://github.com/john0isaac/action-check-markdown)| An action that runs markdown-checker on PRs and stores the found issues in the GitHub environment. | GitHub Action |
+|[Google-Apps-Script-Send-Custom-Emails](https://github.com/john0isaac/Google-Apps-Script-Send-Custom-Emails)| Google apps script to send two custom HTML messages to anyone automatically. | Google Apps Script, Automation, Gmail |
+|[Create-and-Send-Personalized-Certificates-using-GAS](https://github.com/john0isaac/Create-and-Send-Personalized-Certificates-using-GAS)| Google apps script to create and send personalized certificates to anyone automatically. | Google Apps Script, Automation, Gmail |
+|[Declutter-your-Gmail-Using-Google-Apps-Script](https://github.com/john0isaac/Declutter-your-Gmail-Using-Google-Apps-Script)| Use Google Apps Script in decluttering your Gmail professionally. Get rid of your unimportant mail by deleting the emails that are one week old and not marked as important nor archived. | Google Apps Script, Automation, Gmail |
 
 ### Low Code - No Code
 
@@ -38,6 +42,8 @@ Read my Microsoft #ContributorStories here 👉🏼 [aka.ms/contributor-stories/
 |---|---|---|
 |[microsoft/AzureML-PowerAppSolution](https://github.com/microsoft/AzureML-PowerAppSolution)| A Power Apps sample for deploying a natural language processing machine learning model to the Azure platform and consuming it using Power Automate to generate text and give you creative writing ideas. | Low-Code / No-Code, AI / ML, Azure |
 |[microsoft/Fabric_Workshops](https://github.com/microsoft/Fabric_Workshops)| Microsoft Fabric Readiness and Workshops. | Low-Code / No-Code, AI / ML, Azure, Microsoft Fabric |
+|[house-price-predicition-aml-powerapp](https://github.com/john0isaac/house-price-predicition-aml-powerapp)| Azure ML + Power App Solution sample and walkthrough to complement the Azure Architecture Centre reference pattern. | Low-Code / No-Code, AI / ML, Azure |
+|[automate-business-email-management-aibuilder-powerapps](https://github.com/john0isaac/automate-business-email-management-aibuilder-powerapps)| AI Builder + Power App Solution sample and walkthrough to complement the Azure Architecture Centre reference pattern. | Low-Code / No-Code, AI / ML, Office 365 |
 
 ## 📜 Articles & Blogs:
 
