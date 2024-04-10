@@ -10,10 +10,31 @@ Read my Microsoft #ContributorStories here 👉🏼 [aka.ms/contributor-stories/
 
 ## 🛠️ Projects
 
-|Name| Description | Technologies | [DevContainer?](https://containers.dev/)
+|Name| Description | Technologies | [DevContainer?](https://containers.dev/) |
 |---|---|---|---|
 |[rag-semantic-kernel-mongodb-vcore](https://github.com/john0isaac/rag-semantic-kernel-mongodb-vcore)| A sample for implementing retrieval augmented generation using Azure Open AI to generate embeddings, Azure Cosmos DB for MongoDB vCore to perform vector search, and semantic kernel. | Python, Quart, OpenAI, MongoDB|✅|
 |[simple-flask-app-terraform](https://github.com/john0isaac/simple-flask-app-terraform)| A simple Python Flask server (classroom example). Designed to be run with Flask locally and deployed to Azure App service. | Python, Flask, Azure, Terraform|✅|
+|[simple-flask-app-terraform](https://github.com/john0isaac/simple-flask-app-terraform)| A simple Python Flask server (classroom example). Designed to be run with Flask locally and deployed to Azure App service. | Python, Flask, Azure, Terraform|✅|
+|[flask-api-sqlite-db](https://github.com/john0isaac/flask-api-sqlite-db)| An API for Managing test cases and their execution results across multiple test assets, with data stored in a SQLite database. | Python, Flask, SQLite, Pytest |✅|
+|[flask-webapp-mysql-db](https://github.com/john0isaac/flask-webapp-mysql-db)| Artists Booking Venues powered by Python (Flask) and MySQL Database. Designed for deployment with the Azure Developer CLI (azd). | Python, Flask, MySQL, Azure, App Service |✅|
+|[flask-webapp-postgresql-db](https://github.com/john0isaac/flask-webapp-postgresql-db)| Artists Booking Venues powered by Python (Flask) and PostgreSQL Database. Designed for deployment with the Azure Developer CLI (azd). | Python, Flask, PostgreSQL, Azure, App Service |✅|
+|[azure-flask-mysql-flexible-appservice](https://github.com/john0isaac/azure-flask-mysql-flexible-appservice)| Web app using Python Flask backend, set up for deployment to Azure App Service with Azure MySQL Flexible Server. | Python, Flask, MySQL, Azure, App Service |✅|
+|[azure-flask-mysql-flexible-aca](https://github.com/john0isaac/azure-flask-mysql-flexible-aca)| Web app using Python Flask backend, set up for deployment to Azure Container Apps with Azure MySQL Flexible server. | Python, Flask, MySQL, Azure, Azure Container Apps |✅|
+
+
+### Tools
+
+|Name| Description | Technologies |
+|---|---|---|
+|[markdown-checker](https://github.com/john0isaac/markdown-checker)| Markdown Validation Reporting Tool. | Python |
+|[action-check-markdown](https://github.com/john0isaac/action-check-markdown)| An action that runs markdown-checker on PRs and stores the found issues in the GitHub environment. | GitHub Action |
+
+### Low Code - No Code
+
+|Name| Description | Technologies |
+|---|---|---|
+|[microsoft/AzureML-PowerAppSolution](https://github.com/microsoft/AzureML-PowerAppSolution)| A Power Apps sample for deploying a natural language processing machine learning model to the Azure platform and consuming it using Power Automate to generate text and give you creative writing ideas. | Low-Code / No-Code, AI / ML, Azure |
+
 
 ## 📜 Articles & Blogs:
 
