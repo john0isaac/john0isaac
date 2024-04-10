@@ -20,7 +20,10 @@ Read my Microsoft #ContributorStories here 👉🏼 [aka.ms/contributor-stories/
 |[flask-webapp-postgresql-db](https://github.com/john0isaac/flask-webapp-postgresql-db)| Artists Booking Venues powered by Python (Flask) and PostgreSQL Database. Designed for deployment with the Azure Developer CLI (azd). | Python, Flask, PostgreSQL, Azure, App Service |✅|
 |[azure-flask-mysql-flexible-appservice](https://github.com/john0isaac/azure-flask-mysql-flexible-appservice)| Web app using Python Flask backend, set up for deployment to Azure App Service with Azure MySQL Flexible Server. | Python, Flask, MySQL, Azure, App Service |✅|
 |[azure-flask-mysql-flexible-aca](https://github.com/john0isaac/azure-flask-mysql-flexible-aca)| Web app using Python Flask backend, set up for deployment to Azure Container Apps with Azure MySQL Flexible server. | Python, Flask, MySQL, Azure, Azure Container Apps |✅|
-
+|[azure-fastapi-mysql-flexible-appservice](https://github.com/john0isaac/azure-fastapi-mysql-flexible-appservice)| Web app using Python FastAPI backend, set up for deployment to Azure App Service with Azure MySQL Flexible Server. | Python, FastAPI, MySQL, Azure, App Service |✅|
+|[azure-fastapi-mysql-flexible-aca](https://github.com/john0isaac/azure-fastapi-mysql-flexible-aca)| Web app using Python FastAPI backend, set up for deployment to Azure Container Apps with Azure MySQL Flexible Server. | Python, FastAPI, MySQL, Azure, Azure Container Apps |✅|
+|[azure-django-mysql-flexible-appservice](https://github.com/john0isaac/azure-django-mysql-flexible-appservice)| Web app using Python Django backend, set up for deployment to Azure App Service with Azure MySQL Flexible Server. | Python, Django, MySQL, Azure, App Service |✅|
+|[azure-django-mysql-flexible-aca](https://github.com/john0isaac/azure-django-mysql-flexible-aca)| Web app using Python Django backend, set up for deployment to Azure Container Apps with Azure MySQL Flexible Server. | Python, Django, MySQL, Azure, Azure Container Apps |✅|
 
 ### Tools
 
