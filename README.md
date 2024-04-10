@@ -34,7 +34,7 @@ Read my Microsoft #ContributorStories here 👉🏼 [aka.ms/contributor-stories/
 |Name| Description | Technologies |
 |---|---|---|
 |[microsoft/AzureML-PowerAppSolution](https://github.com/microsoft/AzureML-PowerAppSolution)| A Power Apps sample for deploying a natural language processing machine learning model to the Azure platform and consuming it using Power Automate to generate text and give you creative writing ideas. | Low-Code / No-Code, AI / ML, Azure |
-
+|[microsoft/Fabric_Workshops](https://github.com/microsoft/Fabric_Workshops)| Microsoft Fabric Readiness and Workshops. | Low-Code / No-Code, AI / ML, Azure, Microsoft Fabric |
 
 ## 📜 Articles & Blogs:
 
