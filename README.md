@@ -12,6 +12,7 @@ Read my Microsoft #ContributorStories here 👉🏼 [aka.ms/contributor-stories/
 
 |Name| Description | Technologies | [DevContainer?](https://containers.dev/) |
 |---|---|---|---|
+|[build-24-langchain-vcore](https://github.com/khelanmodi/build-24-langchain-vcore)| A sample for implementing retrieval augmented generation using Azure Open AI to generate embeddings, Azure Cosmos DB for MongoDB vCore to perform vector search, and lang chain. | Python, Quart, OpenAI, MongoDB|✅|
 |[rag-semantic-kernel-mongodb-vcore](https://github.com/john0isaac/rag-semantic-kernel-mongodb-vcore)| A sample for implementing retrieval augmented generation using Azure Open AI to generate embeddings, Azure Cosmos DB for MongoDB vCore to perform vector search, and semantic kernel. | Python, Quart, OpenAI, MongoDB|✅|
 |[simple-flask-app-terraform](https://github.com/john0isaac/simple-flask-app-terraform)| A simple Python Flask server (classroom example). Designed to be run with Flask locally and deployed to Azure App service. | Python, Flask, Azure, Terraform|✅|
 |[flask-api-sqlite-db](https://github.com/john0isaac/flask-api-sqlite-db)| An API for Managing test cases and their execution results across multiple test assets, with data stored in a SQLite database. | Python, Flask, SQLite, Pytest |✅|
@@ -43,6 +44,13 @@ Read my Microsoft #ContributorStories here 👉🏼 [aka.ms/contributor-stories/
 |[microsoft/Fabric_Workshops](https://github.com/microsoft/Fabric_Workshops)| Microsoft Fabric Readiness and Workshops. | Low-Code / No-Code, AI / ML, Azure, Microsoft Fabric |
 |[house-price-predicition-aml-powerapp](https://github.com/john0isaac/house-price-predicition-aml-powerapp)| Azure ML + Power App Solution sample and walkthrough to complement the Azure Architecture Centre reference pattern. | Low-Code / No-Code, AI / ML, Azure |
 |[automate-business-email-management-aibuilder-powerapps](https://github.com/john0isaac/automate-business-email-management-aibuilder-powerapps)| AI Builder + Power App Solution sample and walkthrough to complement the Azure Architecture Centre reference pattern. | Low-Code / No-Code, AI / ML, Office 365 |
+
+### Python Templates
+
+|Name| Description | Technologies | [DevContainer?](https://containers.dev/) |
+|---|---|---|---|
+|[python-package-template](https://github.com/john0isaac/python-package-template)| A Github template repository for a Python package with support for Codespaces, devcontainer, and Github Actions. | Python, Automation, Packaging |✅|
+
 
 ## 📜 Articles & Blogs:
 
