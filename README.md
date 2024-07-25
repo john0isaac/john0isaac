@@ -69,6 +69,8 @@ Read my Microsoft #ContributorStories here 👉🏼 [aka.ms/contributor-stories/
 <details>
   <summary>See publications</summary>
   <ol>
+    <li> <a href="https://techcommunity.microsoft.com/t5/microsoft-developer-community/why-and-how-to-ground-a-large-language-models-using-your-data/ba-p/4152064" target="_blank" >Why? and How to Ground a Large Language Models using your Data?</a>(RAG) </li>
+    <li> <a href="https://techcommunity.microsoft.com/t5/educator-developer-blog/build-rag-chat-app-using-azure-cosmos-db-for-mongodb-vcore-and/ba-p/4055852" target="_blank" >Build RAG Chat App using Azure Cosmos DB for MongoDB vCore and Azure OpenAI</a>: Step-by-Step Guide </li>
     <li> <a href="https://techcommunity.microsoft.com/t5/educator-developer-blog/migrating-a-full-stack-mysql-web-app-from-google-cloud-to/ba-p/3939472" target="_blank" >Migrating a Full Stack MySQL Web App from Google Cloud to Microsoft Azure</a>: Step-by-Step Guide </li>
     <li> <a href="https://techcommunity.microsoft.com/t5/educator-developer-blog/migrating-a-full-stack-mysql-web-app-from-google-cloud-to/ba-p/3939472" target="_blank" >Migrating a Full Stack MySQL Web App from Google Cloud to Microsoft Azure</a>: Step-by-Step Guide </li>
     <li> <a href="https://techcommunity.microsoft.com/t5/educator-developer-blog/migrating-a-full-stack-web-app-from-google-cloud-to-microsoft/ba-p/3939478" target="_blank" >Migrating a Full Stack PostgreSQL Web App from Google Cloud to Microsoft Azure</a>: Step-by-Step Guide </li>
