@@ -1,9 +1,9 @@
-## Hi, I'm John Aziz a Python Software Developer! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+## Hi, I'm John Aziz a Software Engineer (Python)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 Read my Microsoft #ContributorStories here 👉🏼 [aka.ms/contributor-stories/john-aziz](https://aka.ms/contributor-stories/john-aziz)
 <details>
   <summary>Details about me</summary>
-<p> A Software Developer that blends technical prowess with a passion for AI and cloud technologies, fostering innovative cloud-based applications. Completing my BS in Computer Engineering has solidified my theoretical understanding and practical abilities, which I apply daily in my profession. </p>
+<p> A Software Engineer that blends technical prowess with a passion for AI and cloud technologies, fostering innovative cloud-based applications. Completing my BS in Computer Engineering has solidified my theoretical understanding and practical abilities, which I apply daily in my profession. </p>
 
 <p> Beyond coding, as a Leader at Azure Egypt User Group, I have a track record of orchestrating events and empowering the tech community through knowledge sharing. I am recognized as a Microsoft AI MVP, a testament to our collective efforts in promoting tech engagement and my commitment to lifelong learning and mentorship within the industry. </p>
 </details>
