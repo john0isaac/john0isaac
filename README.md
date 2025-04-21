@@ -3,9 +3,13 @@
 Read my Microsoft #ContributorStories here 👉🏼 [aka.ms/contributor-stories/john-aziz](https://aka.ms/contributor-stories/john-aziz)
 <details>
   <summary>Details about me</summary>
-<p> A Software Engineer that blends technical prowess with a passion for AI and cloud technologies, fostering innovative cloud-based applications. Completing my BS in Computer Engineering has solidified my theoretical understanding and practical abilities, which I apply daily in my profession. </p>
+<p>I'm a Software and Data Engineer with a strong focus on AI, cloud technologies, and community empowerment. My journey blends hands-on technical expertise with a deep commitment to knowledge-sharing — both through code and conversations.</p>
 
-<p> Beyond coding, as a Leader at Azure Egypt User Group, I have a track record of orchestrating events and empowering the tech community through knowledge sharing. I am recognized as a Microsoft AI MVP, a testament to our collective efforts in promoting tech engagement and my commitment to lifelong learning and mentorship within the industry. </p>
+<p>From building full-stack, cloud-native applications to contributing to open-source tools like the Azure Developer CLI, I thrive at the intersection of engineering and innovation. As a Microsoft AI MVP and Leader of the Azure Egypt User Group, I’ve hosted and spoken at events, mentored early-career developers, and collaborated with Microsoft to grow regional tech ecosystems.</p>
+
+<p>My mission? To craft reliable, scalable software solutions — and help others do the same. Whether it’s through designing internal systems, automating workflows, or writing technical content for global audiences, I bring a mix of precision, creativity, and heart to every project.</p>
+
+<p>💡 Let’s connect if you're passionate about AI, cloud, or community-led growth — or if you're just down to geek out over cool tech.</p>
 </details>
 
 ## 🛠️ Projects
