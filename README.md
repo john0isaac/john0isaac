@@ -35,6 +35,7 @@ Read my Microsoft #ContributorStories here 👉🏼 [aka.ms/contributor-stories/
 |Name| Description | Technologies |
 |---|---|---|
 |[markdown-checker](https://github.com/john0isaac/markdown-checker)| Markdown Validation Reporting Tool. | Python |
+|[protect-my-dir](https://github.com/john0isaac/protect-my-dir)| A command-line tool designed to encrypt and decrypt files within a directory using a password. | Python |
 |[action-check-markdown](https://github.com/john0isaac/action-check-markdown)| An action that runs markdown-checker on PRs and stores the found issues in the GitHub environment. | GitHub Action |
 |[Google-Apps-Script-Send-Custom-Emails](https://github.com/john0isaac/Google-Apps-Script-Send-Custom-Emails)| Google apps script to send two custom HTML messages to anyone automatically. | Google Apps Script, Automation, Gmail |
 |[Create-and-Send-Personalized-Certificates-using-GAS](https://github.com/john0isaac/Create-and-Send-Personalized-Certificates-using-GAS)| Google apps script to create and send personalized certificates to anyone automatically. | Google Apps Script, Automation, Gmail |
