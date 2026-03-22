@@ -63,10 +63,8 @@ Read my Microsoft #ContributorStories here 👉🏼 [aka.ms/contributor-stories/
 <details>
   <summary>See publications</summary>
   <ol>
-    <li> <a href="https://learn.microsoft.com/microsoft-cloud/dev/tutorials/aml-powerapps-powerautomate" target="_blank" >Integrating a Large Language Model on Azure with Power Platform</a> </li>
     <li> <a href="https://learn.microsoft.com/training/modules/introduction-large-language-models" target="_blank" >Introduction to large language models</a> </li>
     <li> <a href="https://learn.microsoft.com/training/modules/large-language-model-deployment" target="_blank" >Create a large language model deployment</a> </li>
-    <li> <a href="https://learn.microsoft.com/training/modules/introduction-chat-completion" target="_blank" >Introduction to chat completions</a> </li>
   </ol>
 </details>
 
