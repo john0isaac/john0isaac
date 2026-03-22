@@ -90,7 +90,7 @@ Read my Microsoft #ContributorStories here 👉🏼 [aka.ms/contributor-stories/
 
 ## ✨ My Github Stats ✨
 
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=john0isaac&show_icons=true&theme=normal)
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=john0isaac&show_icons=true&locale=en)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
